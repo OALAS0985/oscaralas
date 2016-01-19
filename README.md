@@ -1,2 +1,0 @@
-# oscaralas
-programacion 3
